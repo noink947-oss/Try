@@ -1,4 +1,4 @@
-```lua
+
 --[[
     Haspar.cc v3.2 - Roblox Mobile Execution Suite
     Developed for Da Strike, Da FFA, Da Hood
